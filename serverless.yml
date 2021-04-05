@@ -23,7 +23,7 @@ frameworkVersion: '2'
 
 custom:
   wsgi:
-    app: serverless-flask-template.api.app
+    app: serverless_flask_template.api.app
     packRequirements: false
   pythonRequirements:
     dockerizePip: non-linux
