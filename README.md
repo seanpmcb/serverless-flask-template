@@ -20,7 +20,7 @@ The following need to be installed on your system. Codeblocks are here purely fo
   sudo pacman -S nodejs
   ```
   
-* [Serverless](https://www.serverless.com/) installed 
+* [Serverless](https://www.serverless.com/) installed and set up with AWS credentials
   ```
   npm install -g serverless
   ```
